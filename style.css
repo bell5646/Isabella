@@ -1,31 +1,20 @@
 h1 {
 	color: aqua;
-	font-size: 50px;
+	font-size: 100px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
 }
 
-h2 {
-    color: aqua;
-}
 
-p {
-    color: white;
-}
 
 body {
-    background: url("http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Color_icon_blue.svg/2000px-Color_icon_blue.svg.png")
+    background: url("http://img0.mxstatic.com/wallpapers/0f458fce470938f1695a8f9865485f17_large.jpeg")
         
 }
 
-h1 {
-    font-family: Impact, Charcoal, sans-serif;
-    
-}
-
-h2 {
-    font-family: Impact, Charcoal, sans-serif;
-    
-}
-
-p {
-    color: white;
+.navigationBar {
+    text-align: center;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    color: navy
+    font-size: 150px;    
 }
