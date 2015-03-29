@@ -1,0 +1,31 @@
+h1 {
+	color: aqua;
+	font-size: 50px;
+}
+
+h2 {
+    color: aqua;
+}
+
+p {
+    color: white;
+}
+
+body {
+    background: url("http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Color_icon_blue.svg/2000px-Color_icon_blue.svg.png")
+        
+}
+
+h1 {
+    font-family: Impact, Charcoal, sans-serif;
+    
+}
+
+h2 {
+    font-family: Impact, Charcoal, sans-serif;
+    
+}
+
+p {
+    color: white;
+}
